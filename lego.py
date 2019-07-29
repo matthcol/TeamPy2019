@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jul 11 15:19:45 2019
-
+version adaptee a python 3.5 pour les chaines formatees
 @author: Matthias
 """
 from datetime import date
